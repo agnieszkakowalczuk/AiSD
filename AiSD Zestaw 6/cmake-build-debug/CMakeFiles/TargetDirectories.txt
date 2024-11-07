@@ -1,3 +1,3 @@
-C:/Users/agama/CLionProjects/AiSD/AiSD 6/cmake-build-debug/CMakeFiles/AiSD_6.dir
-C:/Users/agama/CLionProjects/AiSD/AiSD 6/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/agama/CLionProjects/AiSD/AiSD 6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/agama/CLionProjects/AiSD/AiSD Zestaw 6/cmake-build-debug/CMakeFiles/AiSD_6.dir
+C:/Users/agama/CLionProjects/AiSD/AiSD Zestaw 6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/agama/CLionProjects/AiSD/AiSD Zestaw 6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
